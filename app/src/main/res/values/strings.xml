@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FragmanetApplication</string>
+    <string name="basic_fragment">Basic Fragment</string>
+    <string name="fragment_s_button">Fragment\'s Button</string>
+    <string name="activity_s_button">Activity\'s Button</string>
+    <string name="action_settings">Settings</string>
+    <string name="fragment_approach">Fragment Approach</string>
+    <string name="this_is_first_fragment">This is First Fragment</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="this_is_second_fragment">This is Second Fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="action_toggle">Toggle Button</string>
+    <string name="submit">Submit</string>
+    <string name="exp_list">WebView</string>
+
+</resources>
